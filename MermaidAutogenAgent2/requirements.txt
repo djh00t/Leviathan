@@ -1,0 +1,17 @@
+# Core Functionalities
+mermaid-py
+pyautogen
+
+# Learning and Feedback System (if using NLP)
+faiss-cpu
+transformers  # Consider replacing with nltk for simpler sentiment analysis
+
+# API Development
+fastapi
+uvicorn
+
+# Testing
+pytest
+
+# Optional (for linting)
+flake8
