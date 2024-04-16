@@ -1,5 +1,10 @@
+# Ignore Aider State Files
 .aider*
-__init__.py
-**/__init__.py
+
+# Ignore venv
+venv/
+
+# Ignore pycache
 __pycache__/
 **/__pycache__/
+*.pyc
