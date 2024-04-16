@@ -1,4 +1,8 @@
 #!/bin/bash
+###
+### GITDIFF - Check remote repository for updates. A low overhead script to 
+### check if the local repository is up-to-date with the remote repository.
+###
 
 # Set the remote and branch you want to check
 REMOTE="origin"
@@ -28,5 +32,5 @@ if [ "$remote_commit" = "$local_commit" ]; then
 else
     echo "Updates are available. Consider pulling the latest changes."
     # Optionally, you can automatically pull the changes
-    # git pull $REMOTE $BRANCH
+    git pull $REMOTE $BRANCH
 fi
