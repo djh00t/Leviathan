@@ -1,0 +1,9 @@
+fastapi
+pydantic==2.5.3
+pydantic-core==2.14.6
+pyautogen
+uvicorn
+click
+mermaid-py
+python-crontab==2.5.1
+iniconfig==2.0.0

@@ -1,0 +1,13 @@
+# config.yaml
+aws:
+  access_key_id: ${AWS_ACCESS_KEY_ID}
+  secret_access_key: ${AWS_SECRET_ACCESS_KEY}
+  s3_bucket: ${AWS_BUCKET_NAME}
+  s3_data_key: data/
+  s3_diagram_key: diagrams/
+
+data_directory: data/
+cron_job_frequency: "0 * * * *"  # every hour
+
+# Expiry time for presigned URLs (in seconds)
+url_expiry: 86400  # 24 hours
