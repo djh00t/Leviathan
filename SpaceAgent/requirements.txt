@@ -1,6 +1,0 @@
-transformers
-torch
-spacy  # Optional, for entity extraction in NLU
-#prodigy  # Optional, for data annotation in NLU
-speechrecognition  # Optional, for speech recognition
-prompt_toolkit
