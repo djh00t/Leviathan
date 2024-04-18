@@ -1,0 +1,1 @@
+As a project manager, I need a detailed Gantt chart for our product development lifecycle to track all tasks, their durations, dependencies, and critical paths, ensuring timely delivery and resource allocation.

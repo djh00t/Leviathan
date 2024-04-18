@@ -1,0 +1,1 @@
+As an energy analyst, I need a comprehensive Sankey diagram representing the national energy distribution to understand how energy is utilized across different sectors and to identify areas for efficiency improvements.

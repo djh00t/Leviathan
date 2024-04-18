@@ -1,0 +1,1 @@
+As a systems analyst, I need a detailed requirement diagram for our enterprise system that includes all functional and non-functional requirements, helping ensure that all system specifications are met and compliance is maintained.

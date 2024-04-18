@@ -1,0 +1,1 @@
+As a strategic planner, I need a comprehensive quadrant diagram that maps our business strategy analysis to identify opportunities for expansion, stable revenue sources, and areas for divestment, helping us make informed investment decisions.

@@ -1,0 +1,1 @@
+As an HR manager, I want a detailed flowchart that outlines the onboarding process for new employees, including decision points and specific actions based on work location, role type, and department, to streamline the onboarding experience and ensure consistency.

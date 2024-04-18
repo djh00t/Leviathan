@@ -1,0 +1,1 @@
+As a software architect, I need a detailed C4 diagram for our CRM system at the component level to ensure all parts of the system are clearly defined and integrated, facilitating better design and implementation.

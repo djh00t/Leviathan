@@ -1,0 +1,1 @@
+As a system architect, I need a comprehensive block diagram that illustrates the full architecture of our enterprise system, including all components and their interactions, to ensure a clear understanding of the system's structure for better maintenance and scalability.
