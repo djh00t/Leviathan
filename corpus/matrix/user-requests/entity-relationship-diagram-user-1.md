@@ -1,0 +1,1 @@
+I require a detailed ER diagram for our library management system. It should show entities like Book, Member, Author, Loan, and Reservation with all their attributes and relationships. Include relationships such as Book to Author, Member to Loan, and Member to Reservation. Also, detail the cardinality and participation of each relationship.

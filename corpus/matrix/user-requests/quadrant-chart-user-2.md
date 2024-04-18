@@ -1,0 +1,1 @@
+Please create a quadrant diagram categorizing our product features by value and feasibility. The diagram should show which features are core, visionary, enhance existing services, or unnecessary based on their business impact and implementation complexity.

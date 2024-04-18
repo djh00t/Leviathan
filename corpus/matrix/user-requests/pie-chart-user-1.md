@@ -1,0 +1,1 @@
+Please create a detailed pie chart showing our revenue distribution across different product categories and major sales regions. Each segment should be clearly labeled with the percentage and region-specific breakdown.

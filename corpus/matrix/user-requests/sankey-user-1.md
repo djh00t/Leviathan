@@ -1,0 +1,1 @@
+Create a comprehensive Sankey diagram representing the national energy distribution, including all sources like coal, solar, and nuclear, and detailing how energy flows through residential, commercial, and industrial networks. Include segments on energy utilization rates and emissions.

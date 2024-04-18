@@ -1,0 +1,1 @@
+Can you create a class diagram showing the main classes like Product, Customer, and Order for our online store? Add attributes like product ID and price, customer email, and order date, along with basic methods for managing these objects.

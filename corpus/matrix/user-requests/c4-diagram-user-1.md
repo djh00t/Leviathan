@@ -1,0 +1,1 @@
+I need a detailed C4 diagram for our CRM system at the component level. It should include all containers like the web and mobile apps, with detailed components such as login modules, dashboards, and interaction trackers. Make sure to outline the database schema and API endpoints clearly, and include external integrations with our email and analytics systems.

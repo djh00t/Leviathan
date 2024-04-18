@@ -1,0 +1,1 @@
+Can you make a flowchart showing the onboarding steps for new hires? Just include the basics like whether they're working remotely or on-site, full-time or part-time, and some department-specific stuff like tech or sales.

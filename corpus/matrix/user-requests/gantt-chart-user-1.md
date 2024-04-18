@@ -1,0 +1,1 @@
+Please create a detailed Gantt chart for our entire product development lifecycle, showing all tasks, their durations, dependencies, and the overlapping of activities across multiple departments. Include key milestones and their critical paths to ensure we can track progress effectively.

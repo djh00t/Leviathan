@@ -1,0 +1,1 @@
+Can you make a Sankey diagram showing the energy and resource flow in our factory, from raw materials to finished products, including stages like manufacturing and assembly, and aspects like waste and emissions?
