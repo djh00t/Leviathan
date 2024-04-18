@@ -1,0 +1,15 @@
+- Entity: Book
+  - Attributes: BookID, Title, Author, ISBN, PublishedDate, Genre, CopiesAvailable
+- Entity: Member
+  - Attributes: MemberID, Name, Email, Address, Phone, MembershipDate, MembershipType
+- Entity: Author
+  - Attributes: AuthorID, Name, Biography
+- Entity: Loan
+  - Attributes: LoanID, BookID, MemberID, LoanDate, DueDate, ReturnDate, LateFee
+- Entity: Reservation
+  - Attributes: ReservationID, BookID, MemberID, ReservationDate
+- Relationships:
+  - Book written by Author
+  - Member borrows Book (via Loan)
+  - Member reserves Book (via Reservation)
+  - Book has multiple Loans and Reservations

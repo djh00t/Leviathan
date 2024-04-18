@@ -1,0 +1,9 @@
+- Task: Concept Development
+  - Start: January 1
+  - End: January 31
+- Task: Product Design
+  - Start: February 1
+  - End: February 28
+- Task: Market Launch
+  - Start: March 1
+  - End: March 31

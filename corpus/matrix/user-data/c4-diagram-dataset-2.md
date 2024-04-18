@@ -1,0 +1,10 @@
+- System: CRM System
+  - Containers:
+    - Web Application: Allows sales personnel to manage customer interactions.
+    - Mobile Application: Provides access to CRM features on-the-go for sales personnel.
+    - Database: Stores customer data, sales data, and interaction logs.
+    - API Server: Handles requests from web and mobile applications.
+    - Reporting Service: Generates sales performance and customer interaction reports.
+  - External Interfaces:
+    - Email System: Sends and receives customer emails.
+    - Analytics System: Provides advanced analytics on sales data and customer interactions.

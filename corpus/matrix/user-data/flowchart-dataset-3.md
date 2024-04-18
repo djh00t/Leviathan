@@ -1,0 +1,62 @@
+- Start: Employee Hired
+  - Decision: Work Location? [Remote, On-site, Hybrid]
+    - Remote:
+      - Send welcome package (laptop, access credentials)
+      - Schedule virtual meet and greet
+      - Remote work policy training
+      - Set up VPN and remote access
+      - Remote-specific security training
+    - On-site:
+      - Prepare workstation and supplies
+      - Schedule on-site orientation
+      - Issue ID and access cards
+      - On-site safety training
+    - Hybrid:
+      - Determine primary work days
+      - Hybrid-specific policy briefing
+      - Equipment setup at home and office
+  - Decision: Employee Type? [Full-time, Part-time, Contractor]
+    - Full-time:
+      - Benefits enrollment
+      - 401(k) plan briefing
+      - Full-time specific onboarding tasks
+      - Schedule compliance training
+    - Part-time:
+      - Overview of part-time policies
+      - Hourly reporting system training
+      - Part-time specific onboarding tasks
+    - Contractor:
+      - Contract review session
+      - Data security and confidentiality training
+      - Contractor specific onboarding tasks
+  - Decision: Department? [Tech, Sales, Marketing, HR, Finance]
+    - Tech:
+      - Programming languages and tools setup
+      - Join developer's meetings
+      - Code repository and version control introduction
+      - Tech-specific compliance training
+    - Sales:
+      - CRM software training
+      - Sales pipeline review
+      - Sales strategy and targets briefing
+    - Marketing:
+      - Brand guidelines session
+      - Marketing tools and platforms introduction
+      - Social media policies
+    - HR:
+      - HRIS software training
+      - Employee relations policies
+      - Recruitment and onboarding training
+    - Finance:
+      - Finance systems and processes overview
+      - Expense reporting guidelines
+      - Financial ethics and compliance training
+  - Multiple feedback loops:
+    - 30-day review with manager
+    - 60-day department-specific feedback session
+    - 90-day performance review and goal setting
+  - Integration with Teams:
+    - Team-specific introduction and role definition
+    - Project assignment
+    - Initial team meeting and role integration
+  - End: Employee Fully Integrated

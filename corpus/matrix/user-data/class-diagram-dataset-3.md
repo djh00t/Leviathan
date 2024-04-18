@@ -1,0 +1,20 @@
+- Class: Product
+  - Attributes: productID, productName, price, category, stockQuantity, supplierID, ratings
+  - Methods: getProductDetails(), updatePrice(newPrice), checkStock(), rateProduct(rating)
+- Class: Customer
+  - Attributes: customerID, name, email, password, address, paymentMethods, orderHistory
+  - Methods: register(), login(), updateProfile(), addToCart(productID), checkout()
+- Class: Order
+  - Attributes: orderID, customerID, orderDate, totalAmount, paymentStatus, shippingDetails
+  - Methods: placeOrder(), cancelOrder(), updateOrder(), trackOrder()
+- Class: ShoppingCart
+  - Attributes: cartID, customerID, items (list of Product objects), itemCount, lastUpdated
+  - Methods: addItem(productID), removeItem(productID), calculateTotal(), emptyCart()
+- Class: Payment
+  - Attributes: paymentID, orderID, paymentType, amount, paymentDate, paymentStatus
+  - Methods: processPayment(), refundPayment(), verifyPayment()
+- Associations:
+  - Customer -> ShoppingCart (1 to 1)
+  - Customer -> Order (1 to many)
+  - Order -> Product (many to many, with OrderLine as an intermediary class containing quantity, productID, orderID)
+  - Product -> Supplier (many to 1)

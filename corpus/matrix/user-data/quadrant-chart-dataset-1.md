@@ -1,0 +1,4 @@
+- Quadrant 1: High Impact, High Urgency - Critical tasks
+- Quadrant 2: High Impact, Low Urgency - Strategic projects
+- Quadrant 3: Low Impact, High Urgency - Operational tasks
+- Quadrant 4: Low Impact, Low Urgency - Marginal activities

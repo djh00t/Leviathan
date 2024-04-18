@@ -1,0 +1,5 @@
+- States include various conditions of the cart (Empty, Filling, Ready for Checkout, etc.)
+- Transitions based on user actions (add, remove, edit items)
+- Payment process states (Awaiting Payment, Processing Payment, Payment Successful, Payment Failed)
+- Post-payment states (Order Processing, Shipment Preparing, In Transit, Delivered)
+- Error and retry mechanisms (Payment retries, Lost connection, Item out of stock)

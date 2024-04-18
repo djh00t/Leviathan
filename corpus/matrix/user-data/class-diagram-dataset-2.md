@@ -1,0 +1,12 @@
+- Class: Product
+  - Attributes: productID, productName, price, category, stockQuantity
+  - Methods: getProductDetails(), updatePrice(newPrice), checkStock()
+- Class: Customer
+  - Attributes: customerID, name, email, password, address
+  - Methods: register(), login(), updateProfile(), addToCart(productID)
+- Class: Order
+  - Attributes: orderID, customerID, orderDate, totalAmount
+  - Methods: placeOrder(), cancelOrder(), updateOrder()
+- Class: ShoppingCart
+  - Attributes: cartID, customerID, items (list of Product objects)
+  - Methods: addItem(productID), removeItem(productID), calculateTotal()

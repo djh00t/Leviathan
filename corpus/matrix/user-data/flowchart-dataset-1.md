@@ -1,0 +1,6 @@
+- Start: Employee Joins
+  - Welcome and Orientation:
+    - Receive company overview
+    - Complete essential paperwork
+    - Basic training on company tools and policies
+  - End: Onboarding Complete

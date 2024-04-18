@@ -1,0 +1,5 @@
+- Segment: Product A - 20%
+- Segment: Product B - 25%
+- Segment: Product C - 15%
+- Segment: Product D - 10%
+- Segment: Product E - 30%

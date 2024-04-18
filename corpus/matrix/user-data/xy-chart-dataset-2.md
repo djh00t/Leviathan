@@ -1,0 +1,4 @@
+- X-axis: Quarters (Q1-Q4)
+- Y-axis: Revenue ($), Profit ($)
+- Revenue Data Points: [$5000, $7000, $6000, $9000]
+- Profit Data Points: [$500, $1200, $900, $2000]

@@ -1,0 +1,3 @@
+- Web Server: Hosts the web application.
+- Database Server: Stores application data.
+- User: Interacts with the web application through a browser.

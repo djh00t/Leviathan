@@ -1,0 +1,4 @@
+- Quadrant 1: High Value, High Feasibility - Core features
+- Quadrant 2: High Value, Low Feasibility - Visionary features
+- Quadrant 3: Low Value, High Feasibility - Enhancement features
+- Quadrant 4: Low Value, Low Feasibility - Unnecessary features

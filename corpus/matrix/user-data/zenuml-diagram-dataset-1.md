@@ -1,0 +1,3 @@
+- User sends login request
+- Server checks credentials
+- Response sent back to User (Success or Failure)

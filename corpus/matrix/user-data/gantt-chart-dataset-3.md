@@ -1,0 +1,12 @@
+- Task: Market Analysis, Start: Jan 1, Duration: 10 days
+- Task: Competitor Analysis, Start: Jan 11, Duration: 10 days
+- Task: Customer Surveys, Start: Jan 21, Duration: 10 days
+- Task: Initial Design, Start: Feb 1, Duration: 15 days, Depends on: Customer Surveys
+- Task: Prototyping, Start: Feb 16, Duration: 20 days, Depends on: Initial Design
+- Task: User Testing, Start: Mar 8, Duration: 15 days, Depends on: Prototyping
+- Task: Design Revisions, Start: Mar 23, Duration: 15 days, Depends on: User Testing
+- Task: Production Setup, Start: Apr 7, Duration: 20 days, Depends on: Design Revisions
+- Task: Marketing Strategy, Start: Apr 27, Duration: 15 days
+- Task: Launch Preparation, Start: May 12, Duration: 20 days, Depends on: Marketing Strategy
+- Task: Launch, Start: June 1, Duration: 1 day, Depends on: Launch Preparation
+- Task: Post-Launch Review, Start: June 2, Duration: 30 days, Depends on: Launch

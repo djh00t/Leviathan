@@ -1,0 +1,6 @@
+- State: Empty Cart
+  - Transition to: Cart with Items upon 'Add Item'
+- State: Cart with Items
+  - Transition to: Checkout upon 'Proceed to Checkout'
+- State: Checkout
+  - Transition to: Payment upon 'Confirm Payment'

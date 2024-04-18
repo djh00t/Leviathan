@@ -1,0 +1,3 @@
+- 2000: Company Founded
+- 2010: Launch of key product
+- 2020: Expansion into international markets

@@ -1,0 +1,12 @@
+- User: Accesses the platform through a web browser or mobile app.
+- Load Balancer: Distributes incoming traffic among multiple servers to improve responsiveness.
+- Web Server Cluster: A group of servers that handle the dynamic content of the website.
+- Static Content Server: Delivers images, CSS, and JavaScript files.
+- Application Server: Manages the business logic and handles transactions.
+- Database Server: Stores user data, product information, and transaction data.
+- Payment Gateway: Processes payments and handles financial transactions.
+- Email Server: Sends notifications and promotional emails to users.
+- CDN (Content Delivery Network): Ensures fast delivery of content to users worldwide.
+- Backup Server: Maintains copies of critical data for disaster recovery.
+- Firewall: Protects the network from unauthorized access and threats.
+- Admin: Manages and monitors system components.

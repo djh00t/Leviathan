@@ -1,0 +1,14 @@
+- Initial commit on master
+- Branch: Develop from master
+- Branch: Feature-1 from develop
+  - Commit: Add login feature
+  - Commit: Fix bugs in login
+  - Merge back to develop
+- Branch: Feature-2 from develop
+  - Commit: Add search functionality
+  - Commit: Optimize search
+  - Merge back to develop
+- Tag: Release v1.0 from develop to master
+- Branch: Hotfix-1 from master
+  - Commit: Critical bug fix post-release
+  - Merge back to master

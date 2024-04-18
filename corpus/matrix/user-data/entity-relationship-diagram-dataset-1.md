@@ -1,0 +1,4 @@
+- Entity: Book
+  - Attributes: BookID, Title, Author
+- Entity: Member
+  - Attributes: MemberID, Name, MembershipDate

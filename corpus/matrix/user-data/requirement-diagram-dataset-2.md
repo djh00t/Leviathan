@@ -1,0 +1,9 @@
+- Functional Requirements:
+  - User Registration - Input validation, database integration
+  - Product Listing - Sorting options, image handling
+- Non-functional Requirements:
+  - Performance - Load times under 2 seconds
+  - Scalability - Support up to 10,000 concurrent users
+- Regulatory Requirements:
+  - Data Protection - GDPR compliance
+  - Transaction Security - PCI DSS compliance

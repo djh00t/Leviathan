@@ -1,0 +1,9 @@
+- 2000: Company Founded
+- 2002: First Product Launched
+- 2005: First Overseas Office Opened
+- 2008: Major Funding Round Completed
+- 2010: Acquisition of Smaller Competitor
+- 2012: IPO
+- 2015: 500th Employee Hired
+- 2018: Launch of Major New Product Line
+- 2020: CEO Retires, New CEO Appointed

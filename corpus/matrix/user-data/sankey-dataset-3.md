@@ -1,0 +1,4 @@
+- Sources: Coal, Solar, Wind, Nuclear
+- Distribution Networks: Residential, Commercial, Industrial
+- Usage: Varying by sector and region
+- Outputs: Energy utilization rates, Emissions by type and sector

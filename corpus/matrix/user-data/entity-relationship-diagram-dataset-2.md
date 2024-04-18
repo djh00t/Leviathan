@@ -1,0 +1,8 @@
+- Entity: Book
+  - Attributes: BookID, Title, Author, ISBN, CopiesAvailable
+- Entity: Member
+  - Attributes: MemberID, Name, Email, MembershipDate, MembershipType
+- Entity: Loan
+  - Attributes: LoanID, BookID, MemberID, LoanDate, ReturnDate
+- Relationships:
+  - Member borrows Book (via Loan)

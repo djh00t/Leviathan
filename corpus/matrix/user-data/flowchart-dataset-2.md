@@ -1,0 +1,30 @@
+- Start: New Employee Joins
+  - Decision: Work Location? [Remote, On-site]
+    - Remote:
+      - Send welcome email and package (laptop, credentials)
+      - Remote work setup and policy briefing
+    - On-site:
+      - Prepare desk and equipment
+      - On-site orientation day
+  - Decision: Role Type? [Full-time, Part-time]
+    - Full-time:
+      - Benefits orientation
+      - Full-time policies briefing
+    - Part-time:
+      - Overview of part-time policies
+      - Flexible hours system introduction
+  - Decision: Department? [Tech, Sales, HR]
+    - Tech:
+      - Technical setup (tools, access)
+      - Initial coding guidelines session
+    - Sales:
+      - Sales tools and CRM training
+      - Introduction to sales team and targets
+    - HR:
+      - HR software training
+      - HR policy overview
+  - Feedback and Integration:
+    - Initial team meeting
+    - Role specific training
+    - 30-day feedback session with HR
+  - End: Employee completes onboarding

@@ -1,0 +1,3 @@
+- User opens app
+- User registers
+- User completes first transaction

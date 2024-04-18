@@ -1,0 +1,33 @@
+- System: CRM System
+  - Containers:
+    - Web Application:
+      - Components:
+        - Login Module: Authenticates users.
+        - Dashboard: Displays overall sales metrics and alerts.
+        - Customer Management: Allows for creation, modification, and viewing of customer profiles.
+        - Interaction Tracker: Logs interactions with customers across various channels.
+        - Report Generator: Customizable reports based on user queries.
+    - Mobile Application:
+      - Components:
+        - Notification Service: Sends alerts and reminders to sales personnel.
+        - Mobile Dashboard: Provides a condensed view of key metrics and notifications.
+        - Quick Contact Add: Enables rapid addition of contact details into the system.
+    - Database:
+      - Tables:
+        - Customers: Stores customer profiles.
+        - Interactions: Logs details of each interaction.
+        - Sales: Records details of transactions.
+        - Users: User account information and roles.
+    - API Server:
+      - Endpoints:
+        - GetCustomerData: Retrieves customer information.
+        - UpdateCustomer: Updates customer profile information.
+        - LogInteraction: Records customer interactions.
+    - Reporting Service:
+      - Components:
+        - Real-time Reporting: Generates dynamic reports as data changes.
+        - Historical Analysis: Provides trends and historical data analysis.
+  - External Interfaces:
+    - Email System:
+      - Integration Points:
+       

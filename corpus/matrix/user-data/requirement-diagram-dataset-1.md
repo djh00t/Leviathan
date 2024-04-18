@@ -1,0 +1,2 @@
+- Feature 1: User Login - Security requirements, data storage
+- Feature 2: Search Functionality - Performance requirements, user interface needs

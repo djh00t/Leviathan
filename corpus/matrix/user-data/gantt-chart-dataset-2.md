@@ -1,0 +1,27 @@
+- Task: Research
+  - Start: January 1
+  - End: January 15
+- Task: Initial Concept
+  - Start: January 16
+  - End: January 31
+- Task: Prototype Development
+  - Start: February 1
+  - End: February 28
+- Task: Testing Phase 1
+  - Start: March 1
+  - End: March 15
+- Task: Feedback Integration
+  - Start: March 16
+  - End: March 31
+- Task: Final Product Design
+  - Start: April 1
+  - End: April 15
+- Task: Production Planning
+  - Start: April 16
+  - End: April 30
+- Task: Marketing Strategy Development
+  - Start: May 1
+  - End: May 15
+- Task: Production Start
+  - Start: May 16
+ 

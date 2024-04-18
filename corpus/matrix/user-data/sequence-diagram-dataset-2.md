@@ -1,0 +1,9 @@
+- User logs in
+- Searches for product
+- Adds product to cart
+- Proceeds to checkout
+- Enters shipping details
+- Chooses payment method
+- Completes payment
+- Receives order confirmation
+- System updates inventory

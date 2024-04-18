@@ -1,0 +1,9 @@
+- Step: User Logs In
+- Step: Search for Product
+- Step: Select Product
+- Step: Add Product to Cart
+- Step: Enter Shipping Details
+- Step: Choose Payment Method
+- Step: Confirm Payment
+- Step: Receive Order Confirmation
+- Step: Order Shipped Notification

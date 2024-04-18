@@ -1,0 +1,3 @@
+- System: CRM System
+  - Users: Sales Team accesses the CRM system.
+  - External Systems: Interfaces with the Email Marketing System.

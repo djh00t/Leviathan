@@ -1,0 +1,3 @@
+- User selects product
+- User completes payment
+- System confirms transaction

@@ -1,0 +1,13 @@
+- User: Initiates Login
+- User -> WebServer: Sends Username and Password
+- WebServer -> Database: Validates Credentials
+- Database -> WebServer: Returns Validation Result
+- WebServer -> User: 
+  - If successful: Sends "Login Successful" and Session Token
+  - If failed: Sends "Login Failed"
+- User: Receives Response
+  - If Login Failed:
+    - User -> WebServer: Requests Password Reset
+    - WebServer -> User: Sends Password Reset Link
+  - If Login Successful:
+    - User -> WebServer: Navigates to Dashboard

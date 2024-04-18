@@ -1,0 +1,20 @@
+- X-axis: Weeks (1-52)
+- Y-axis: Metrics (Sales, Revenue, Profit Margins, Customer Acquisitions)
+- Sales Data Points for each week:
+  - Week 1: $1200, Week 2: $1500, Week 3: $1300, ..., Week 52: $2000
+- Revenue Data Points for each week:
+  - Week 1: $2200, Week 2: $2500, Week 3: $2300, ..., Week 52: $3200
+- Profit Margins Data Points for each week:
+  - Week 1: 10%, Week 2: 12%, Week 3: 11%, ..., Week 52: 15%
+- Customer Acquisitions for each week:
+  - Week 1: 25, Week 2: 30, Week 3: 28, ..., Week 52: 45
+- Marketing Spend for each week:
+  - Week 1: $300, Week 2: $400, Week 3: $350, ..., Week 52: $500
+- Customer Retention Rates for each week:
+  - Week 1: 80%, Week 2: 82%, Week 3: 81%, ..., Week 52: 90%
+- New Product Launches and their initial week sales:
+  - Week 5: Launch Product A - $5000 sales, Week 18: Launch Product B - $7000 sales, Week 35: Launch Product C - $4500 sales
+- Special Campaigns and their impact on sales:
+  - Week 10: Valentine's Day Campaign - $3000 sales increase, Week 25: Summer Sale - $4000 sales increase, Week 50: Holiday Sale - $5000 sales increase
+- Economic Indicators affecting weekly sales:
+  - Week 8: Interest Rate Increase - Sales drop by 5%, Week 26: Economic Boom - Sales increase by 10%, Week 41: Market Downturn - Sales decrease by 8%
