@@ -1,0 +1,19 @@
+diagram_type,diagram_category,diagram_definition,datatype_categorical,datatype_quantitative,datatype_text,datatype_timeseries,datatype_relationship,datatype_hierarchical,datatype_status,datatype_tasks,datatype_resource_allocation,datatype_geographic,datatype_network,datatype_image,datatype_audio,datatype_structured,datatype_semi_structured,datatype_unstructured
+flowchart,Process Diagrams,"Represents steps, actions, decisions in a process.",TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+sequence diagram,Interaction Diagrams,"Shows object interactions over time, emphasizing message exchange.",TRUE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+class diagram,Structural Diagrams,"Describes system structure: classes, attributes, operations, relationships",TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+state diagram,Behavioral Diagrams,Models object states and transitions between them.,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+entity relationship diagram (ERD),Structural Diagrams,"Visualizes data objects, attributes, their relationships.",TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+user journey,Experience Diagrams,Maps user steps to achieve a goal with a product/service,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+gantt chart,Project Management Diagrams,"Visualizes project tasks, timelines, dependencies, progress",FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+pie chart,Statistical Diagrams,"Shows parts of a whole, where slices represent proportions.",TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+quadrant chart,Statistical Diagrams,Plots data on four quadrants based on two variables.,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+requirement diagram,Structural Diagrams,Illustrates system requirements and their relationships.,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE
+gitgraph diagram,Version Control Diagrams,Visualizes branching and merging history of a Git repository.,FALSE,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+c4 diagram,Structural Diagrams,Visualizes software architecture at different abstraction levels.,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+mindmaps,Conceptual Diagrams,Visual representation of ideas and their connections.,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+timeline,Temporal Diagrams,Represents events or milestones in chronological order.,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
+zenuml,Sequence Diagrams,Text-based syntax to generate sequence diagrams.,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+sankey,Flow diagrams,Emphasizes flow quantities and transfers.,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE
+xychart,Statistical Diagrams,Plots data pairs on X-Y axes  to show relationships.,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE
+block diagram,Structural Diagrams,Represents system components and interconnections.,TRUE,FALSE,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE
