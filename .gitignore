@@ -1,3 +1,6 @@
+# Ignore archive
+archive/**
+
 # Ignore Aider State Files
 .aider*
 
