@@ -14,13 +14,16 @@
 
 ### Task #1 - Detailed Description (Company Revenue Breakdown)
 #### Goal:
-Create a detailed pie chart to display the breakdown of company revenue by product category for the fiscal year.
+Create a detailed pie chart to display the breakdown of company revenue by
+product category for the fiscal year.
+
 #### Expected Result:
 - **Structure:** Each slice represents a different product category.
 - **Labels:** Slices should be labeled with the category name and the percentage of total revenue it represents.
 - **Semantic Accuracy:** Each slice's size should accurately reflect its proportion of the total revenue.
 - **Completeness:** All major product categories should be included in the chart.
 - **Additional Notes:** Use distinct colors for each slice to enhance readability and differentiation.
+
 #### Scoring Weights:
 - **Component Matching:** 40%
 - **Syntax Correctness:** 20%
