@@ -1,0 +1,12 @@
+graph TD;
+    A[Start] --> B{Is it Monday?};
+    B -->|Yes| C[Write report];
+    B -->|No| D{Is it Friday?};
+    D -->|Yes| E[Update status];
+    D -->|No| F[Standard work];
+    C --> G[Submit report];
+    E --> H[Send email];
+    F --> I[Plan next day];
+    G --> J[End];
+    H --> J;
+    I --> J;

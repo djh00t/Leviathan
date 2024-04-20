@@ -1,0 +1,12 @@
+graph TD;
+    A[Start] --> B{Check inventory};
+    B -->|Stock low| C[Order more];
+    B -->|Stock sufficient| D{Check orders};
+    C -->|Order placed| E[Verify delivery];
+    D -->|New orders| F[Process orders];
+    D -->|No new orders| G[Schedule maintenance];
+    E --> H[Receive goods];
+    F --> I[Dispatch goods];
+    G --> I;
+    H --> I;
+    I --> J[End];
