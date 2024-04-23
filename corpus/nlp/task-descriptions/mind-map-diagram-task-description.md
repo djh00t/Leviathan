@@ -24,7 +24,10 @@ Research and Development,"AI Algorithms, Quantum Computing"
 - **Structure:** The Mind Map should clearly depict all categories and their related ideas.
 - **Labels:** Each branch and sub-branch should be clearly labeled with the category or idea name.
 - **Semantic Accuracy:** The relationships and hierarchies between ideas should logically reflect potential product development pathways.
-- **Completeness:** The Mind Map should encompass a broad spectrum of innovative ideas relevant to the tech industry.
+- **Completeness:** The Mind Map should encompass a broad spectrum of
+  innovative ideas relevant to the tech industry.
+- **Extra Elements:** Deduct 5 points for each component or connection listed
+  in the raw data that does not appear in the generated diagram.
 - **Additional Notes:** Use different colors and symbols to represent different categories or levels of priority.
 
 **Mermaid Example:**
