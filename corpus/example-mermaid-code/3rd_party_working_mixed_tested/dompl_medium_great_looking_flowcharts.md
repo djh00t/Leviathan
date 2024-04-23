@@ -9,7 +9,7 @@ graph LR
     4([Stop])
 %% Node links
     1 --> 2 --> 3 -->|Yes| 4
-    3 -.->|No| 2 
+    3 -.->|No| 2
 ```
 
 ## Simple gantt chart built using Mermaid
@@ -19,18 +19,18 @@ gantt
 axisFormat %e%b
 todayMarker on
 section Activity 1
-    TaskA	: TA, 2021-06-14, 4d
-    TaskB	: TB, after TA, 2d
+    TaskA   : TA, 2021-06-14, 4d
+    TaskB   : TB, after TA, 2d
 section Activity 2
-    TaskC	: TC, after TA, 3d
-    TaskD	: TD, after TC, 2d
+    TaskC   : TC, after TA, 3d
+    TaskD   : TD, after TC, 2d
 section Activity 3
-    TaskE	: TE, after TD, 1d
-    TaskF	: TF, after TE, 2d
-``` 
+    TaskE   : TE, after TD, 1d
+    TaskF   : TF, after TE, 2d
+```
 
 ## Produce the basic layout of the flowchart
-    
+
 ```mermaid
 graph TD
 %% Nodes
@@ -193,16 +193,16 @@ subgraph SGTitle ["WHAT IS THE ROOT CAUSE OF THE PROBLEM? ____"]
     32 --- 322
 %% Defining node styles
     classDef Red fill:#FF9999;
-    classDef Amber	fill:#FFDEAD;
+    classDef Amber  fill:#FFDEAD;
     classDef Green fill:#BDFFA4;
 %% Assigning styles to nodes
     class 3,32,321 Red;
     class 322 Amber;
     class 1,2,31 Green;
-    
+
 %% Changing color of links [NOTE: Link arrows will remain black]
     linkStyle default fill: none, stroke: grey;
-    
+
 %% Styling the title subgraph
     classDef Title fill:#FF99FF00, stroke-width:0, color:grey, font-weight:bold, font-size: 17px;
     class SGTitle Title;
