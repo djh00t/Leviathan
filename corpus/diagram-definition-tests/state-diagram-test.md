@@ -33,4 +33,3 @@ Develop a comprehensive state diagram to model the user authentication process i
 * **Semantic Accuracy:** 20%
 * **Completeness:** 20%
 * **Extra Elements:** Deduct 5 points for each unnecessary element.
-
