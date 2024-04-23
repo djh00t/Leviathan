@@ -19,7 +19,7 @@ Create a comprehensive requirement diagram for a new software application, detai
 - **Structure:** Clearly defined hierarchy of requirements including parent-child relationships.
 - **Labels:** Each requirement must be labeled with its type, ID, description, associated risk, and verification method.
 - **Semantic Accuracy:** Accurately represent the dependencies and relationships between requirements.
-- **Completeness:** Include all types of requirements necessary for the system’s functionality.
+- **Completeness:** Include all types of requirements necessary for the system's functionality.
 - **Additional Notes:** Use different colors or styles for different types of requirements to enhance readability.
 #### Scoring Weights:
 - **Component Matching:** 30%
