@@ -28,7 +28,6 @@ Code,"Classes and Methods for Payment Processing"
   interactions within the system.
 - **Extra Elements:** Deduct 5 points for each component or connection listed
   in the raw data that does not appear in the generated diagram.
-- **Additional Notes:**
 - **Additional Notes:** Use color coding or different shapes to distinguish between different types of elements (e.g., databases, services, user interfaces).
 
 **Mermaid Example:**
