@@ -120,7 +120,7 @@ flowchart LR;
     C-->D["D#ddagger; (external link)"];
     click B "https://gist.github.com/ChristopherA/bffddfdf7b1502215e44cec9fb766dfd/#flowchart-with-hyperlinks"
     click D "https://gist.github.com/ChristopherA/"
-``` 
+```
 
 ### More Complex Example
 
@@ -132,21 +132,21 @@ flowchart LR;
       classDef white color:#022e1f,fill:#fff;
       classDef black color:#fff,fill:#000;
       B--YES-->C[How to use?]:::green;
-      
+
       C-->U[I choose recaptcha.]:::green;
       U--Views-->Q["echo CIMC_JS('recaptcha');\n echo CIMC_HTML(['captcha_name'=>'recaptcha']);"]:::green;
       U--Controller-->W["CIMC_RULE('recaptcha');"]:::green;
-      
+
       C-->I[I choose arcaptcha.]:::white;
       I--Views-->O["echo CIMC_JS('arcaptcha');\n echo CIMC_HTML(['captcha_name'=>'arcaptcha']);"]:::white;
       I--Controller-->P["CIMC_RULE('arcaptcha');"]:::white;
-      
+
       C-->X[I choose bibot.]:::red;
       X--Views-->V["echo CIMC_JS('bibot');\n echo CIMC_HTML(['captcha_name'=>'bibot']);"]:::red;
       X--Controller-->N["CIMC_RULE('bibot');"]:::red;
-      
+
       B--NO-->D[How to use?]:::black;
-      D---Views:::black-->F["echo CIMC_JS('randomcaptcha');\n echo CIMC_HTML(['captcha_name'=>'randomcaptcha']);"]:::black; 
+      D---Views:::black-->F["echo CIMC_JS('randomcaptcha');\n echo CIMC_HTML(['captcha_name'=>'randomcaptcha']);"]:::black;
       D---Controller:::black-->T["CIMC_RULE('archaptcha,recaptcha,bibot');"]:::black;
 ```
 
@@ -262,10 +262,10 @@ graph TD
     Wifi -->|1.5a| Fuse
 
     Fuse -->|10a| Cig1[Cigarette Lighter]
-    Fuse -->|10a| Cig1 
+    Fuse -->|10a| Cig1
 
     Fuse -->|10a| Cig2[Cigarette Lighter Near Bed]
-    Fuse -->|10a| Cig2 
+    Fuse -->|10a| Cig2
 
     BusNeg -->|?a| Old
 
@@ -308,10 +308,10 @@ subgraph SGTitle ["WHAT IS THE ROOT CAUSE OF THE PROBLEM? ____"]
     32[Sub Variable 2<br>Tgt: 25, Act: 5]
     321[Element 1<br>Tgt: 20, Act: 1]
     322[Element 2<br>Tgt: 5, Act: 4]
-    
+
 %% Close title subgraph
 end
-    
+
 %% Links
     0 --- 1
     0 --- 2
@@ -320,20 +320,20 @@ end
     3 --- 32
     32 --- 321
     32 --- 322
-    
+
 %% Defining node styles
     classDef Red fill:#FF9999;
-    classDef Amber	fill:#FFDEAD;
+    classDef Amber  fill:#FFDEAD;
     classDef Green fill:#BDFFA4;
 
 %% Assigning styles to nodes
     class 3,32,321 Red;
     class 322 Amber;
     class 1,2,31 Green;
-    
+
 %% Changing color of links [NOTE: Link arrows will remain black]
     linkStyle default fill: none, stroke: grey;
-    
+
 %% Styling the title subgraph
     classDef Title fill:#FF99FF00, stroke-width:0, color:grey, font-weight:bold, font-size: 17px;
     class SGTitle Title;
@@ -359,7 +359,7 @@ Alice->John: Yes... John, how are you?
 sequenceDiagram
   participant c as Client
   participant s as Server
-  
+
   c->>s: SYN
   note over c, s: SEQ1 = 100<br>ACK1 not set
   s->>c: SYN+ACK
@@ -450,15 +450,15 @@ stateDiagram-v2
 ```mermaid
 stateDiagram-v2
   [*] --> Unwritten
-  
+
   Unwritten --> Open: Open
   Unwritten --> Void: Void
-  
+
   Open --> Void: Void
   Open --> Cancelled: Cancel
   Open --> Closed: Close
   Open --> Open: Update
-  
+
   Closed --> Open: Open
 ```
 
@@ -498,7 +498,7 @@ stateDiagram-v2
 
 ## Shipment Status
 ```mermaid
-stateDiagram-v2 
+stateDiagram-v2
   direction LR
   [*] --> Initialed
   Initialed --> SellerSent
@@ -506,12 +506,12 @@ stateDiagram-v2
   Transported --> BuyerPicked
   BuyerPicked --> Delivered
   Delivered --> [*]
-  
+
   BuyerPicked --> BuyerSent
   BuyerSent --> ReturnTransported
   ReturnTransported --> SellerPicked
   SellerPicked --> [*]
-  
+
   Transported --> ReturnTransported: buyer doesn'y pick up the item after 1 week
 ```
 
@@ -623,7 +623,7 @@ requirementDiagram
     test_entity - satisfies -> test_req
 ```
 
-## GitGraph 
+## GitGraph
 
 This does not seem to be documented, see [https://github.com/mermaid-js/mermaid/issues/2011].
 
