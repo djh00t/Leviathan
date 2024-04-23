@@ -22,7 +22,7 @@ You may also reach out to the team via our public Discord chat channels; however
 
 Keep current with the latest Mermaid releases. We regularly update Mermaid, and these updates may fix security defects discovered in previous versions. Check the Mermaid release notes for security-related updates.
 
-Keep your application’s dependencies up to date. Make sure you upgrade your package dependencies to keep the dependencies up to date. Avoid pinning to specific versions for your dependencies and, if you do, make sure you check periodically to see if your dependencies have had security updates, and update the pin accordingly.
+Keep your application's dependencies up to date. Make sure you upgrade your package dependencies to keep the dependencies up to date. Avoid pinning to specific versions for your dependencies and, if you do, make sure you check periodically to see if your dependencies have had security updates, and update the pin accordingly.
 
 ## Configuring DomPurify
 

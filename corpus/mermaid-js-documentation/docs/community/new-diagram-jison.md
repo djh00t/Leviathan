@@ -28,11 +28,11 @@ There are some jison specific sub steps here where the parser stores the data en
 
 ```jison
 statement
-	: 'participant' actor  { $$='actor'; }
-	| signal               { $$='signal'; }
-	| note_statement       { $$='note';  }
-	| 'title' message      { yy.setTitle($2);  }
-	;
+    : 'participant' actor  { $$='actor'; }
+    | signal               { $$='signal'; }
+    | note_statement       { $$='note';  }
+    | 'title' message      { yy.setTitle($2);  }
+    ;
 ```
 
 In the extract of the grammar above, it is defined that a call to the setTitle method in the data object will be done when parsing and the title keyword is encountered.

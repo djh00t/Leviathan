@@ -28,7 +28,7 @@ config:
     primaryColor: "#00ff00"
 ---
 flowchart
-	Hello --> World
+    Hello --> World
 
 ```
 
@@ -41,7 +41,7 @@ config:
     primaryColor: "#00ff00"
 ---
 flowchart
-	Hello --> World
+    Hello --> World
 
 ```
 
@@ -51,16 +51,16 @@ flowchart
 
 ```mermaid-example
 sequenceDiagram
-	Site->>mermaid: initialize
-	Site->>mermaid: content loaded
-	mermaid->>mermaidAPI: init
+    Site->>mermaid: initialize
+    Site->>mermaid: content loaded
+    mermaid->>mermaidAPI: init
 ```
 
 ```mermaid
 sequenceDiagram
-	Site->>mermaid: initialize
-	Site->>mermaid: content loaded
-	mermaid->>mermaidAPI: init
+    Site->>mermaid: initialize
+    Site->>mermaid: content loaded
+    mermaid->>mermaidAPI: init
 ```
 
 ## Initialize

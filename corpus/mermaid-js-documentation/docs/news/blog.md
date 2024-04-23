@@ -42,7 +42,7 @@ Learn how to make a flowchart with Mermaid Chart, the leading text-to-diagram pl
 
 Read about how Ari Tal, a data scientist and founder of Leveling Up with XAI, utilizes Mermaid Chart for its easy-to-use flowchart creation capabilities to enhance his work in explainable AI (XAI).
 
-## [Introducing Mermaid Chart’s JetBrains IDE Extension](https://www.mermaidchart.com/blog/posts/introducing-mermaid-charts-jetbrains-ide-extension/)
+## [Introducing Mermaid Chart's JetBrains IDE Extension](https://www.mermaidchart.com/blog/posts/introducing-mermaid-charts-jetbrains-ide-extension/)
 
 20 December 2023 · 5 mins
 
@@ -72,7 +72,7 @@ Mermaid Chart, a user-friendly, code-based diagram generator with AI integration
 
 Would an AI diagram generator make your life easier?
 
-## [Diagrams, Made Even Easier: Introducing “Code Snippets” in the Mermaid Chart Editor](https://www.mermaidchart.com/blog/posts/easier-diagram-editing-with-code-snippets/)
+## [Diagrams, Made Even Easier: Introducing "Code Snippets" in the Mermaid Chart Editor](https://www.mermaidchart.com/blog/posts/easier-diagram-editing-with-code-snippets/)
 
 12 October 2023 · 4 mins
 
@@ -100,7 +100,7 @@ Read about the pitfalls of special cases in programming, illustrating how they c
 
 14 August 2023 · 4 mins
 
-Introducing Mermaid Chart’s new AI chatbot, a diagramming assistant that simplifies text-based diagram creation for everyone, from developers to educators, offering features to start, edit, and fix diagrams, and embodying our vision to make diagramming accessible, user-friendly, and fun.
+Introducing Mermaid Chart's new AI chatbot, a diagramming assistant that simplifies text-based diagram creation for everyone, from developers to educators, offering features to start, edit, and fix diagrams, and embodying our vision to make diagramming accessible, user-friendly, and fun.
 
 ## [Believe It or Not, You Still Need an Online UML Diagram Tool](https://www.mermaidchart.com/blog/posts/uml-diagram-tool/)
 
@@ -120,17 +120,17 @@ Introducing the concept of mind mapping as a tool for organizing complex informa
 
 New Integration Enhances Workflows By Enabling Developers To Reference And Edit Diagrams Within Visual Studio Code.
 
-## [Mermaid Chart’s ChatGPT Plugin Combines Generative AI and Smart Diagramming For Users](https://www.mermaidchart.com/blog/posts/mermaid-chart-chatgpt-plugin-combines-generative-ai-and-smart-diagramming)
+## [Mermaid Chart's ChatGPT Plugin Combines Generative AI and Smart Diagramming For Users](https://www.mermaidchart.com/blog/posts/mermaid-chart-chatgpt-plugin-combines-generative-ai-and-smart-diagramming)
 
 29 June 2023 · 4 mins
 
-Mermaid Chart’s new ChatGPT plugin integrates AI-powered text prompts with Mermaid’s intuitive diagramming editor, enabling users to generate, edit, and share complex diagrams with ease and efficiency.
+Mermaid Chart's new ChatGPT plugin integrates AI-powered text prompts with Mermaid's intuitive diagramming editor, enabling users to generate, edit, and share complex diagrams with ease and efficiency.
 
 ## [Sequence diagrams, the only good thing UML brought to software development](https://www.mermaidchart.com/blog/posts/sequence-diagrams-the-good-thing-uml-brought-to-software-development/)
 
 15 June 2023 · 12 mins
 
-Sequence diagrams really shine when you’re documenting different parts of a system and the various ways these parts interact with each other.
+Sequence diagrams really shine when you're documenting different parts of a system and the various ways these parts interact with each other.
 
 ## [subhash-halder contributed quadrant charts so you can show your manager what to select - just like the strategy consultants at BCG do](https://www.mermaidchart.com/blog/posts/subhash-halder-contributed-quadrant-charts-so-you-can-show-your-manager-what-to-select-just-like-the-strategy-consultants-at-bcg-do/)
 
@@ -142,7 +142,7 @@ A quadrant chart is a useful diagram that helps users visualize data and identif
 
 26 April 2023 · 11 mins
 
-Documentation tends to be bad because companies and projects don’t fully realize the costs of bad documentation.
+Documentation tends to be bad because companies and projects don't fully realize the costs of bad documentation.
 
 ## [Automatic text wrapping in flowcharts is here!](https://www.mermaidchart.com/blog/posts/automatic-text-wrapping-in-flowcharts-is-here/)
 
@@ -160,7 +160,7 @@ Exciting news for all Mermaid OSS fans: Mermaid Chart has officially launched wi
 
 8 March 2023 · 9 mins
 
-The hype around AI in general and ChatGPT, in particular, is so intense that it’s very understandable to assume the hype train is driving straight toward the trough of disillusionment.
+The hype around AI in general and ChatGPT, in particular, is so intense that it's very understandable to assume the hype train is driving straight toward the trough of disillusionment.
 
 ## [Flow charts are O(n)2 complex, so don't go over 100 connections](https://www.mermaidchart.com/blog/posts/flow-charts-are-on2-complex-so-dont-go-over-100-connections/)
 
@@ -172,4 +172,4 @@ Flowchart design is a game of balance: Read about the importance of dialling in 
 
 10 February 2023 · 10 mins
 
-Busting the myth that developers can’t write # It’s an annoying stereotype that developers don’t know how to write, speak, and otherwise communicate.
+Busting the myth that developers can't write # It's an annoying stereotype that developers don't know how to write, speak, and otherwise communicate.
