@@ -30,4 +30,3 @@
   - External Interfaces:
     - Email System:
       - Integration Points:
-       
