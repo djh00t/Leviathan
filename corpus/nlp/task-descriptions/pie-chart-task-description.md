@@ -30,7 +30,10 @@ Other,20%
 - **Structure:** The chart should visually represent market share distribution among the major players in the smartphone industry, with enhanced clarity in how each segment's size corresponds to its market share percentage.
 - **Labels:** Each segment should be labeled with the manufacturer's name and the percentage of market share they hold.
 - **Semantic Accuracy:** The size of each segment should correspond accurately to the market share percentages.
-- **Completeness:** The chart must include all significant players in the market.
+- **Completeness:** The chart must include all significant players in the
+  market.
+- **Extra Elements:** Deduct 5 points for each component or connection listed
+  in the raw data that does not appear in the generated diagram.
 - **Additional Notes:** Use distinct colors for each segment to enhance readability and differentiation.
 
 **Mermaid Example:**
