@@ -4,7 +4,7 @@ This dataset provides guidance for selecting effective data visualization techni
 
 ## Database Structure
 
-The dataset is normalized into several tables within an SQLite database. 
+The dataset is normalized into several tables within an SQLite database.
 
 * **visual_aids.db**
 
@@ -17,7 +17,7 @@ Tables:
 * **design_principles_junction:** Links visual aids to relevant design principles (many-to-many relationship).
     * Columns: data_type_id, design_principle_id (with appropriate foreign key constraints)
 
-* **Additional Tables** 
+* **Additional Tables**
    You may consider creating similar tables for 'contexts' and 'audience' if these columns become too complex to manage within the visual_aids table.
 
 ## Usage Notes
