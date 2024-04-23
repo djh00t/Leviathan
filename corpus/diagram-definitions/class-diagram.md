@@ -8,7 +8,7 @@
 
 ### Data Presentation Limitations
 - Not suitable for showing sequential or process-oriented data flows, which are better represented by flowcharts or sequence diagrams.
-- Ineffective for non-structured data that doesn’t fit into relational database models, such as unstructured text.
+- Ineffective for non-structured data that doesn't fit into relational database models, such as unstructured text.
 - Not designed to handle data without clear relationships or discrete entities, such as time series data.
 
 ## Task Descriptions
