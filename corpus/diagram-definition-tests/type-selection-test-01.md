@@ -45,7 +45,7 @@ Develop a diagram to display the market share distribution among leading smartph
         innerRadius: 50%  // Vary this value for different doughnut sizes
         }
     ```
-* **Additional Notes:** 
+* **Additional Notes:**
   - Use distinct colors for each manufacturer to enhance readability and differentiation. Consider providing a legend if the diagram includes many small segments representing other smaller manufacturers.
   - The actual values assigned to each smartphone manufacturer are not critical when evaluating results of this test; focus on the structure, labels, completeness, and the appropriate chart type being chosen.
 
@@ -61,4 +61,3 @@ Develop a diagram to display the market share distribution among leading smartph
 2. **Doughnut Chart:** Similar to pie charts but may be considered slightly more visually appealing; functionally equivalent for this use case.
 3. **Bar Chart:** Effective for comparison, especially if many manufacturers are involved; it allows for easier reading of exact market share percentages.
 4. **Stacked Bar Chart:** Less ideal unless additional categorization (like regional market share) is needed.
-
