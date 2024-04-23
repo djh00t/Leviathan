@@ -1,1 +1,1 @@
-As a version control manager, I need a comprehensive GitGraph that visualizes our project’s version control history to track all changes, branches, and merges, ensuring accurate documentation and understanding of our development process.
+As a version control manager, I need a comprehensive GitGraph that visualizes our project's version control history to track all changes, branches, and merges, ensuring accurate documentation and understanding of our development process.
