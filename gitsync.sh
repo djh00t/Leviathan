@@ -1,6 +1,6 @@
 #!/bin/bash
 ###
-### GITDIFF - Check remote repository for updates. A low overhead script to 
+### GITDIFF - Check remote repository for updates. A low overhead script to
 ### check if the local repository is up-to-date with the remote repository.
 ###
 
