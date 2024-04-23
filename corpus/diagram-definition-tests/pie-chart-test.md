@@ -19,7 +19,7 @@ Develop a diagram to display the market share distribution among leading smartph
         "Xiaomi": 10
         "Other": 20
     ```
-**Additional Notes:** 
+**Additional Notes:**
 * The actual values assigned to each smartphone manufacturer are not critical when evaluating results of this test; focus on the structure labels completeness and appropriate chart type being chosen.
 * Use distinct colors for each manufacturer to enhance readability and differentiation. Consider providing a legend if the diagram includes many small segments representing other smaller manufacturers.
 
