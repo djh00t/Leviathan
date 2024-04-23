@@ -24,4 +24,3 @@
   - End: May 15
 - Task: Production Start
   - Start: May 16
- 
