@@ -33,7 +33,7 @@ gantt
 pie
     title Pets
     "Dogs" : 386
-    "Cats" 
+    "Cats"
     "Birds" : 45
 ```
 
