@@ -48,7 +48,7 @@ User Story: As a project manager, I need a detailed Gantt chart for our product 
 
 Chart Type: timeline
 User Role: company historian
-User Story: As a company historian, I need a timeline of our company’s key milestones over the last two decades to document our growth and achievements, providing a clear historical perspective for stakeholders.
+User Story: As a company historian, I need a timeline of our company's key milestones over the last two decades to document our growth and achievements, providing a clear historical perspective for stakeholders.
 
 Chart Type: mind map
 User Role: marketing strategist
@@ -60,7 +60,7 @@ User Story: As a financial analyst, I need a detailed pie chart showing our reve
 
 Chart Type: GitGraph
 User Role: version control manager
-User Story: As a version control manager, I need a comprehensive GitGraph that visualizes our project’s version control history to track all changes, branches, and merges, ensuring accurate documentation and understanding of our development process.
+User Story: As a version control manager, I need a comprehensive GitGraph that visualizes our project's version control history to track all changes, branches, and merges, ensuring accurate documentation and understanding of our development process.
 
 Chart Type: user-journey diagram
 User Role: UX designer
