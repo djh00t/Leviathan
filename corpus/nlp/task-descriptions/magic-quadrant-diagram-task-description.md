@@ -34,6 +34,8 @@ Campaign F,0.35,0.78
 - **Labels:** Each campaign should be clearly labeled with its position indicated by coordinates, ensuring labels are distinct and easily readable.
 - **Semantic Accuracy:** The positioning should accurately reflect the campaigns' reach and engagement data.
 - **Completeness:** The chart should include all key campaigns being analyzed.
+- **Extra Elements:** Deduct 5 points for each component or connection listed
+  in the raw data that does not appear in the generated diagram.
 - **Additional Notes:** Use contrasting colors or symbols for each quadrant to enhance readability and differentiate between categories.
 
 **Mermaid Example:**
