@@ -2,7 +2,7 @@
 - User -> WebServer: Sends Username and Password
 - WebServer -> Database: Validates Credentials
 - Database -> WebServer: Returns Validation Result
-- WebServer -> User: 
+- WebServer -> User:
   - If successful: Sends "Login Successful" and Session Token
   - If failed: Sends "Login Failed"
 - User: Receives Response
