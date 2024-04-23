@@ -40,7 +40,10 @@ c8,feature-x,John Doe,2024-01-09,c5
 **Structure:** The graph should accurately map the sequence of commits along with their branching and merging points.
 **Labels:** Each commit should be labeled with its ID, author, and commit date.
 **Semantic Accuracy:** Branches and merges should correctly represent the project's version control history.
-**Completeness:** The graph should include all key commits and branches relevant to the project scope.
+**Completeness:** The graph should include all key commits and branches
+relevant to the project scope.
+- **Extra Elements:** Deduct 5 points for each component or connection listed
+  in the raw data that does not appear in the generated diagram.
 **Additional Notes:** Use clear, distinct colors or shapes to represent different branches for better visual distinction.
 
 **Mermaid Example:**
