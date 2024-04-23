@@ -9,7 +9,7 @@
 
 ### Data Presentation Limitations
 - Sequential or process-oriented data flows which are better represented by flowcharts or sequence diagrams.
-- Non-structured data that doesn’t fit into relational database concepts, like unstructured text.
+- Non-structured data that doesn't fit into relational database concepts, like unstructured text.
 - Data without clear relationships or discrete entities, such as time series data.
 
 ## Task Descriptions
@@ -73,7 +73,7 @@ Create an ER diagram for a library system, focusing on books and loans. The enti
 ### Task #3 - Vague Description (School System Entities)
 
 #### Description
-Sketch out an ER diagram for a school system. Include tables for students, teachers, and classes. Add in some typical relationships, but don’t worry about being too specific about attributes or keys.
+Sketch out an ER diagram for a school system. Include tables for students, teachers, and classes. Add in some typical relationships, but don't worry about being too specific about attributes or keys.
 
 #### Expected Result
 
