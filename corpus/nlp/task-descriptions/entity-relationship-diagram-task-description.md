@@ -25,7 +25,10 @@ Enrollment,"StudentID, CourseID","Links Students and Courses"
 - **Structure:** The diagram should clearly depict all entities and their relationships.
 - **Labels:** Each entity should be labeled with its name and list of attributes.
 - **Semantic Accuracy:** The relationships between entities should accurately reflect the administrative and academic structure of the university.
-- **Completeness:** The diagram should include all primary entities and their relationships necessary for the university's database.
+- **Completeness:** The diagram should include all primary entities and their
+  relationships necessary for the university's database.
+- **Extra Elements:** Deduct 5 points for each component or connection listed
+  in the raw data that does not appear in the generated diagram.
 - **Additional Notes:** Use standardized ERD notation to ensure clarity and adherence to database design principles.
 
 **Mermaid Example:**
