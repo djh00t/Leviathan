@@ -20,7 +20,7 @@ task.
 A clear and concise description of the specific NLP task. (e.g., generating
 flowcharts from textual/spoken descriptions) it must explain the task as if the
 listener has no knowledge or understanding of the content but they do know
-about diagrams and flowcharts and the kind of content each is suited to. 
+about diagrams and flowcharts and the kind of content each is suited to.
 
 ## Data
 This section should include:
@@ -40,7 +40,7 @@ tabular data, Mermaid or ASCII code for flowcharts)
 A mermaid code example of the desired output (e.g., a flowchart
 in mermaid code)
 
-## User Requested Task/Data Descriptions 
+## User Requested Task/Data Descriptions
 This section is headed "User-Requested Data Descriptions" and contains 5
 actor/user data descriptions with headings "Data Description [1-5]", one per
 actor. It provides textual/spoken descriptions of the task and its data from
@@ -50,7 +50,7 @@ These descriptions should be diverse in phrasing and terminology to enrich
 the training data and be written in a way that the listener could draw the
 correct diagram from the description. The way each description is written
 should be authentic to the actor who is requesting the diagram in terms of
-detail, verbosity/terseness, formality and chosen wording. 
+detail, verbosity/terseness, formality and chosen wording.
 
 The description should be as detailed as necessary to accurately convey the
 information to be presented while considering the likely level of detail that
@@ -59,7 +59,7 @@ specific actor would provide.
 This model is aimed at presentation of data in business & software
 development documentation so the descriptions should be written in a way that
 is appropriate for that context. Irrelevant conversational details should be
-avoided in this corpus. 
+avoided in this corpus.
 
 The likely use case for this model would be a plugin that allows the user to
 highlight text in a document and have a flowchart of the process described in
@@ -92,13 +92,13 @@ scoring system to evaluate its performance. This includes:
   - *Each solution must accurately display the data*
   - *Each solution must be appropriate for the context it will be presented in
     and its intended use*
-  
+
   The model has 3 available response templates when replying to a user request.
   When communicating in a clarifying question context, the model should try to
   lose the least amount of points possible while still returning a correct
   result. Scoring may differ between contexts but for now we should only
   consider the clarifying question context.
-  
+
   **Response Templates:**
     - **Yes/No** questions:
 
@@ -115,13 +115,13 @@ scoring system to evaluate its performance. This includes:
       In many contexts the maximum allowed responses will be 1 (radio
       selector), but in other contexts it may be helpful to allow more than one
       response to be selected (check boxes).
-     
+
        (Score: -1 per option)
     - **Open-ended** questions:
-    
+
       These questions require a more detailed plain text/spoken answer to
       clarify the request or anything else required to reduce ambiguity or
-      missing information. (Score: -10) 
+      missing information. (Score: -10)
 
 ## Reviewing NLP Task Descriptions:
 Reviewers should assess NTDs based on the following criteria:
